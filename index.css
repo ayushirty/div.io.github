@@ -1,0 +1,19 @@
+.container1{
+    
+    position: relative;
+    height: 640px;
+    width: auto;
+    border: 1px solid;
+    text-align: center;
+}
+
+
+.container2{
+   
+    position: absolute;
+    bottom: 0;
+    height: 300px;
+    width: 300px;
+    margin-left: 1028px;
+    border: 1px solid; 
+}
